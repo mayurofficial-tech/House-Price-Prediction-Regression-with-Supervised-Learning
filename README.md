@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="PASTE_YOUR_VIDEO_LINK_HERE"><b>🎬 &nbsp;WATCH THE PROJECT WALKTHROUGH</b></a>
+  <a href="https://drive.google.com/file/d/1dkAnphQ4By85V-acgjyLNglIyQGR4Inq/view?usp=drive_link"><b>🎬 &nbsp;WATCH THE PROJECT WALKTHROUGH</b></a>
 </p>
 
 <p align="center">
